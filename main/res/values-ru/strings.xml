@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">спортивные соревнования</string>
+    <string name="button_add_point_to_guineas">свинки</string>
+    <string name="button_add_point_to_dogs">собаки</string>
+    <string name="reset_button">сброс</string>
+</resources>
